@@ -2,8 +2,9 @@
 name: create-image
 on:
   push:
-    tags:
-      - 'v*'
+    branches: ['master']
+    # tags:
+    #   - 'v*'
 
 jobs:
   create-and-push-image:
