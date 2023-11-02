@@ -22,6 +22,6 @@
 }
 
 .component-button.orange button {
-  background-color: #0000FF*; /*#FFC0CB; /*Change it to blue #0000FF*/
+  background-color: #008000; /* change this for color */
   color: white;
 }
